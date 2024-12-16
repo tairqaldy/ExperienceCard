@@ -116,7 +116,6 @@ This project is a simple, responsive profile card designed to display informatio
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: tair.caldy@mail.ru
-- **Phone**: +7 (707) 167 7003
 - **GitHub**: [@tairqaldy](https://github.com/tairqaldy)
 - **LinkedIn**: [Tair Kaldybayev](https://www.linkedin.com/in/tair-kaldybayev-922198312/)
 
